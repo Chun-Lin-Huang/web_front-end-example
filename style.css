@@ -62,26 +62,31 @@ body {
 /* 第一個按鈕顏色 */
 .wrapper .btn:nth-child(1) {
     background-color: #2099e5;
+    color: yellow; /* 文字顏色黃色 */
 }
 
 /* 第二個按鈕顏色 */
 .wrapper .btn:nth-child(2) {
     background-color: #be74ed;
+    color: yellow; /* 文字顏色黃色 */
 }
 
 /* 第三個按鈕顏色 */
 .wrapper .btn:nth-child(3) {
     background-color: #ec87b8;
+    color: yellow; /* 文字顏色黃色 */
 }
 
 /* 第四個按鈕顏色 */
 .wrapper .btn:nth-child(4) {
-    background-color: #eee279;
+    background-color: #ee9e79;
+    color: yellow; /* 文字顏色黃色 */
 }
 
 /* 第五個按鈕顏色 */
 .wrapper .btn:nth-child(5) {
-    background-color: #adf3da;
+    background-color: #5e9881;
+    color: yellow; /* 文字顏色黃色 */
 }
 
 /* 第一個按鈕懸停變深 */
@@ -101,12 +106,12 @@ body {
 
 /* 第四個按鈕懸停變深 */
 .wrapper .btn:nth-child(4):hover {
-    background-color: #cbc166;
+    background-color: #c88566;
 }
 
 /* 第五個按鈕懸停變深 */
 .wrapper .btn:nth-child(5):hover {
-    background-color: #8ac3af;
+    background-color: #4e7f6b;
 }
 
 /* 冒號的意思是選擇虛擬類別 */
